@@ -1,2 +1,2 @@
 # SPOJ
-My submissions on SPOJ.com, mostly tutorial and basic problems.
+My submissions on SPOJ.com, mostly for tutorial and basic problems.
